@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://appxpay.com/sitemap.xml
